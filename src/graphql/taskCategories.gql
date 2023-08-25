@@ -1,0 +1,7 @@
+query {
+    taskCategories {
+      id
+      name
+      taskCount
+    }
+  }
